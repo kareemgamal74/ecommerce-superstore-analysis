@@ -38,7 +38,7 @@
 
 ## 🖼️ أمثلة من الرسوم البيانية
 ### 1. إجمالي المبيعات والأرباح
-![Sales_vs_Profit](images/sales_vs_profit.png)
+![Sales_vs_Profit](main/Figure_1.png)
 
 ### 2. المبيعات حسب الفئة
 ![Sales_by_Category](images/sales_by_category.png)
