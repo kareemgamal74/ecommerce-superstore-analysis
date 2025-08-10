@@ -38,13 +38,13 @@
 
 ## 🖼️ أمثلة من الرسوم البيانية
 ### 1. إجمالي المبيعات والأرباح
-![Sales_vs_Profit](main/Figure_1.png)
+![Sales_vs_Profit](https://github.com/kareemgamal74/ecommerce-superstore-analysis/blob/main/Figure_1.png?raw=true)
 
 ### 2. المبيعات حسب الفئة
-![Sales_by_Category](images/sales_by_category.png)
+![Sales_by_Category]([images/sales_by_category.png](https://github.com/kareemgamal74/ecommerce-superstore-analysis/blob/main/Figure_2.png?raw=true))
 
 ### 3. المدن الأكثر مبيعات
-![Top_10_Cities](images/top_10_cities.png)
+![Top_10_Cities]([images/top_10_cities.png](https://github.com/kareemgamal74/ecommerce-superstore-analysis/blob/main/Figure_6.png?raw=true))
 
 ---
 
